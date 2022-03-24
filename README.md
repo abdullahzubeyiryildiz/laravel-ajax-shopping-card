@@ -8,8 +8,9 @@ Laravel Ajax Shopping Cart Bootstrap 5 Example
 - [Pratik Yazılımcı](https://www.pratikyazilimci.com)
 
 
- php artisan migrate
- php artisan db:seed --class=ProductSeeder
+-  php artisan migrate
+-  php artisan db:seed --class=ProductSeeder
+
 
 
 ## License
