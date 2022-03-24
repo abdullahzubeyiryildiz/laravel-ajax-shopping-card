@@ -3,7 +3,7 @@
 
 ## Laravel Restful Api
 
-Laravel Ajax Shopping Card Bootstrap 5 Example.
+Laravel Ajax Shopping Card Bootstrap 5 Example
 
 - [Pratik Yazılımcı](https://www.pratikyazilimci.com)
 
